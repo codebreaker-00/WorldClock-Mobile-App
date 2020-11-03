@@ -10,7 +10,7 @@ Flutter Application for getting World-Time.
 
 On running the app it gives time at a place (here Kolkata), If the time is of Night, the theme is of Dark Mode. 
 <br>
-<b>Change Location</b>
+<b>Change Location</b> <br>
 On selecting the option of Changing the location we get an interface like this:
 <center>
 <img src="assets/new-yorkWorldClock.png"></img>
